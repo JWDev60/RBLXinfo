@@ -1,14 +1,23 @@
-I'm Very New To This Type Of Tool So Am Using AI And Will Fix Bugs When Found
 
-Project In Development 
+### I'm Very New To This Type Of Tool So Am Using AI And Will Fix Bugs When Found
 
-RBLXinfo Is A Roblox Web Scraping Tool To Get Info On Different Things
+-------
 
-Current Things:
-Group
+### Project In Development 
 
-Things In Development:
-Users
-Games
-Clothing
-Gamepasses
+-------
+
+## ** RBLXinfo Is A Roblox Web Scraping Tool To Get Info On Different Things ** 
+
+-------
+
+# Current Things:
+1.  Group
+
+# Things In Development:
+- Users
+- Games
+- Clothing
+- Gamepasses
+
+[Tutorials](Tutorials.md)
