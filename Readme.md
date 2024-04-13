@@ -7,14 +7,12 @@
 
 -------
 
-## ** RBLXinfo Is A Roblox Web Scraping Tool To Get Info On Different Things ** 
+## RBLXinfo Is A Roblox Web Scraping Tool To Get Info On Different Things
 
 -------
 
 # Current Things:
 1.  Group
-
--------
 
 # Things In Development:
 - Users
@@ -22,6 +20,4 @@
 - Clothing
 - Gamepasses
 
--------
-
-[Tutorials](https://github.com/JWDev60/RBLXinfo/blob/main/Tutorials.md)
+[Tutorials](Tutorials.md)
