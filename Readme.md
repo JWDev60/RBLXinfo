@@ -22,5 +22,5 @@
 
 -------
 
-[Tutorials](Tutorials.md)
+[Tutorials](https://github.com/JWDev60/RBLXinfo/blob/main/Tutorials.md)
 [Known Bugs](https://github.com/JWDev60/RBLXinfo/blob/main/KnownBugs.md)
