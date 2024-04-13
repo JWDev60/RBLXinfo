@@ -7,7 +7,7 @@
 
 -------
 
-## RBLXinfo Is A Roblox Web Scraping Tool To Get Info On Different Things
+## RBLXinfo Is A Roblox Web Scraping Tool To Get Info On Different Things 
 
 -------
 
@@ -20,4 +20,7 @@
 - Clothing
 - Gamepasses
 
+-------
+
 [Tutorials](Tutorials.md)
+[Known Bugs](https://github.com/JWDev60/RBLXinfo/blob/main/KnownBugs.md)
