@@ -2,6 +2,7 @@
 -------
 
 [Readme](https://github.com/JWDev60/RBLXinfo/blob/main/Readme.md)
+[Known Bugs](https://github.com/JWDev60/RBLXinfo/blob/main/KnownBugs.md)
 
 -------
 
