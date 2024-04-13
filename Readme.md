@@ -14,10 +14,14 @@
 # Current Things:
 1.  Group
 
+-------
+
 # Things In Development:
 - Users
 - Games
 - Clothing
 - Gamepasses
 
-[Tutorials](Tutorials.md)
+-------
+
+[Tutorials](https://github.com/JWDev60/RBLXinfo/blob/main/Tutorials.md)
