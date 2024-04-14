@@ -1,7 +1,7 @@
 const fetch = require('node-fetch');
 
 // Replace 'GROUP_ID' with the actual group ID you want to retrieve information for
-const groupId = 'GROUP_ID';
+const groupId = '32921054';
 
 // Function to make the API request and retrieve group information
 // Replace 'YOUR_AUTHORIZATION_TOKEN' with the Authorization Token You Have Made
@@ -9,7 +9,7 @@ async function getGroupInfo(groupId) {
   const url = `https://groups.roblox.com/v1/groups/${groupId}`;
   const response = await fetch(url, {
     headers: {
-      Authorization: 'YOUR_AUTHORIZATION_TOKEN'
+      Authorization: '6bpGxQTTaUCoL062pAyzKFhdFzefC9ScJksDwqH66xUgXaRx'
     }
   });
   const groupInfo = await response.json();
