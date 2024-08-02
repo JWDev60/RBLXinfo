@@ -1,4 +1,4 @@
-const fetch = require('node-fetch');
+// const fetch = require('node-fetch');
 
 // Replace 'GROUP_ID' with the actual group ID you want to retrieve information for
 const groupId = '32921054';
@@ -15,7 +15,7 @@ async function getGroupInfo(groupId) {
   const groupInfo = await response.json();
 
   // Extract the required group information
-  const ownerName = groupInfo.owner.userDisplayName;
+  const ownerName = groupInfo.owner.userName;
   const createdDate = groupInfo.created;
   const memberCount = groupInfo.memberCount;
   const gamesCount = groupInfo.publicEntryAllowedGamesCount;
